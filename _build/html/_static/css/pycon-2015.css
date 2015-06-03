@@ -16,3 +16,12 @@ button {
 #speakers img {
   border-radius: 50%;
 }
+
+.discount {
+  display: block;
+  background: #cfd;
+  color: #465;
+  font-weight: bold;
+  margin: -0.25em -0.7em;
+  padding: 0.25em 0.7em;
+}
